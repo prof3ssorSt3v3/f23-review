@@ -42,11 +42,12 @@ killall Finder
 ### Git
 
 - `init`, `add`, `commit`
-- `status` and `log`
+- `git status` and `git log` + `:q`
 - `git remote add origin <url>`
 - `git push origin main`
 - `git pull`
-- git branches
+- `git branch -l` + `:q`
+- `git checkout -b <branchname>`
 
 ## Part 2 - JavaScript
 
@@ -64,7 +65,6 @@ killall Finder
 - network
 - elements
 - toggle device mode
--
 
 ### Functions
 
