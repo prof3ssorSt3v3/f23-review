@@ -48,6 +48,9 @@ killall Finder
 - `git pull`
 - `git branch -l` + `:q`
 - `git checkout -b <branchname>`
+- Github.com account with your student email
+- [Github Education](https://education.github.com/)
+- [Github Authentication](https://docs.github.com/en/authentication)
 
 ## Part 2 - JavaScript
 
