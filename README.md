@@ -102,10 +102,13 @@ killall Finder
 - `display`: `block`, `none`, `inline`, `inline-block`, `flex`, ...
 - Classes vs ids
 - Multiple classes
-- pseudo-classes and -elements
-- Specificity
+- [pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) and [-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+- [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 - Chrome Dev Tools
-- Typographic Hierarchy
+  - `⌘` `⌥` + i: Developer Tools
+  - `⌘` `⌥` + c: Inspect Elements
+  - `⌘` `⌥` + j: JavaScript Console
+- Typographic Hierarchy: font-weight, color, font-size, spacing
 - Grids, spacing, and rhythm
 - Fonts, [Google fonts](https://fonts.google.com/)
 - Flexbox
