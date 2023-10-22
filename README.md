@@ -46,6 +46,7 @@ killall Finder
 - `git remote add origin <url>`
 - `git push origin main`
 - `git pull`
+- git branches
 
 ## Part 2 - JavaScript
 
@@ -106,5 +107,24 @@ killall Finder
 - Chrome Dev Tools
 - Typographic Hierarchy
 - Grids, spacing, and rhythm
-- Fonts, Google fonts
+- Fonts, [Google fonts](https://fonts.google.com/)
 - Flexbox
+
+```css
+.container {
+  display: flex;
+  flex-direction: row; /* column, *-reverse */
+  flex-wrap: nowrap;
+  justify-content: flex-start; /* flex-start flex-end center space-around space-evenly space-between */
+  align-items: stretch;
+  gap: 1rem 1rem;
+}
+.item {
+  /* flex: grow shrink basis; (0 1 auto default) */
+  flex-basis: auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  /* order: 1 */
+  /* width, height */
+}
+```
